@@ -5,3 +5,7 @@ This repository is for the SunCodeX Arduino code. The code is for creating LED s
 # The Full Project
 To see the full project description, go to http://makerwiki.scholarslab.org/projects/sun-arduino 
 
+# Thingiverse Models
+The 3D models for this project are located at https://www.thingiverse.com/thing:2886096
+
+
