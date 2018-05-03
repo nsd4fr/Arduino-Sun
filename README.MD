@@ -10,4 +10,5 @@ The 3D models for this project are located at https://www.thingiverse.com/thing:
 
 
 The wiring diagram I used for this code.
-![Sun Project](images/"Sun project_bb.png")
+
+![Sun Project](images/wiringdiagram.png)
