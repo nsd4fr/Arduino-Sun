@@ -8,4 +8,6 @@ To see the full project description, go to http://makerwiki.scholarslab.org/proj
 # Thingiverse Models
 The 3D models for this project are located at https://www.thingiverse.com/thing:2886096
 
-[Sun Project](images/"Sun project_bb.png")
+
+The 
+![Sun Project](images/"Sun project_bb.png")
